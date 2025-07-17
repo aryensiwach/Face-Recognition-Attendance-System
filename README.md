@@ -1,5 +1,5 @@
 # Face Recognition Attendance System
-Run Main.py and enjoy
+Run Main.py and enjoy,
 The admin username and password are stored in credentials.txt
 
 This is a Python-based facial recognition attendance system. It uses OpenCV and the face_recognition library to detect and recognize faces from a webcam feed and mark attendance automatically.
@@ -51,7 +51,7 @@ Project created by Aryendra Chaudhary
 GitHub: https://github.com/aryensiwach  
 
 
-the camera change feature and student panel is under build ,will update when finished,
+The camera change feature and student panel is under build ,will update when finished.
 ---
 
 
